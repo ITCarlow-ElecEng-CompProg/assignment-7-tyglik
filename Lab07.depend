@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507556473 source:g:\programming\lab07\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<cstdio>
+
+1507559451 source:g:\programming\lab07 - cartesian-polar conversion\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<cstdio>
+
